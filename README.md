@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shambhavee Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="300" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif"
+<img align="right" alt="coding" width="300" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 - 🌱 I’m currently learning *Frontend web development, devops tools*
 
