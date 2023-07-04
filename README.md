@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<img src="![name-of-giphy](https://www.pinterest.com/pin/360921357640139327/).gif" alt="gif" align="right"/>
+<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/360921357640139327/">
 
 - 📫 How to reach me **shambhaveesrivastava12@gmail.com**
 
