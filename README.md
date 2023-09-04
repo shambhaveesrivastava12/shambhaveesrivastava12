@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shambhavee Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
+<img src="https://media.tenor.com/h0mocw4K4ywAAAAC/anime-girl.gif" alt="gif" align="right">
+
 - 🌱 I’m currently learning **Kubernetes and React**
 - 👯 I’m looking to collaborate on **open source projects**
 
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
 
 
 - 📫 How to reach me **shambhaveesrivastava12@gmail.com**
