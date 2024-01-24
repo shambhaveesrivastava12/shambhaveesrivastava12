@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Shambhavee</h1>
 <h3 align="center">A DevOps Enthusiast</h3>
 
-- 🌱 I’m currently learning **MERN Stack and Kubernetes**
+- 🌱 I’m currently learning **MERN Stack and Terraform**
 - 👯 I’m looking to collaborate on **open source projects**
   
 <h3 align="left">Reach me out:</h3>
