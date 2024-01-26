@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋, I'm Shambhavee</h1>
+<h1 align="center">Hey, I'm Shambhavee 🙌</h1>
 <h3 align="center">A DevOps Enthusiast</h3>
 
 - 🌱 I’m currently learning **MERN Stack and Terraform**
