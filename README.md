@@ -51,3 +51,5 @@ hobbies: ["Swimming","Sketching","Content Writer"]
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=100&section=footer"/>
 </p>
+
+![Snake animation](https://github.com/shambhaveesrivastava12/shambhaveesrivastava12/blob/output/github-contribution-grid-snake.svg)
