@@ -24,7 +24,7 @@ fields_of_interests:
     "UI/UX",
   ]
    
-currently_learning: ["Ansible, Selenium and React Native"]
+currently_learning: ["Prometheus, Grafana and TypeScript"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Swimming","Sketching","Content Writer"]
 ```
