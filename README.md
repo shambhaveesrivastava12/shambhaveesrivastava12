@@ -51,8 +51,17 @@ hobbies: ["Swimming","Sketching","Content Writer"]
 
 ![Snake animation](https://raw.githubusercontent.com/shambhaveesrivastava12/shambhaveesrivastava12/output/github-contribution-grid-snake-dark.svg)
 
+
+<div align="center" >
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" height="60" />CONTRIBUTIONS</h1>
+ </div>
+
+        
+
+<div align="center">
+<img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-rainbow.svg">
+</div>
+
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=100&section=footer"/>
 </p>
-
-
