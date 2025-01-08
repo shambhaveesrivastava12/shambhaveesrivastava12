@@ -8,7 +8,7 @@
 
 ```yaml
 name: Shambhavee Srivastava
-located_in: Dehradun, Uttarakhand
+located_in: Lucknow, Uttar Pradesh
 education:
   [
     "Self-Taught Developer",
